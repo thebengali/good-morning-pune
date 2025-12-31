@@ -2,6 +2,8 @@
 title: "Welcome to Good Morning Pune"
 date: "2025-12-31"
 excerpt: "Launching a new publication about Pune - no agenda, just observations."
+type: "image"
+featuredImage: "/images/pune-morning.jpg"
 ---
 
 This is your first post. Write in markdown here.
